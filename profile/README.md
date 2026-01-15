@@ -1,3 +1,3 @@
 # Engineering @ The Armstrong Collective
 
-Please reach out the an Adminstrator or Tech Lead to get access to repositories
+Please reach out to an Adminstrator or Tech Lead to get access to repositories
